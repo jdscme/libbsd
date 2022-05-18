@@ -43,6 +43,7 @@ LIB_SRCS := \
 	strmode.c \
 	strtonum.c \
 	strlcat.c strlcpy.c \
+	strnstr.c \
 	fmtcheck.c \
 	nlist.c \
 	progname.c \
